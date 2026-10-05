@@ -1,2 +1,2 @@
-1.0.1
-https://github.com/TWOJ_LOGIN/CloudLauncher/releases/download/v1.0.1/CloudLauncher.exe
+1.0.0
+https://github.com/filipk1798-max/cloudupdate/releases/download/upd/CloudLauncher.exe
