@@ -1,2 +1,2 @@
-1.0.2
+1.0.1
 https://github.com/filipk1798-max/cloudupdate/releases/download/upd1.0.0/CloudLauncher.exe
